@@ -23,7 +23,7 @@ password = "TWOJE_HASŁO"
 ## 🚀 Instalacja i uruchomienie
 1. Sklonuj repozytorium:
    ```sh
-   git clone https://github.com/twoj-projekt.git
+   git clone https://github.com/twoj-projekt.git](https://github.com/m3rsky/sms_planet_api.git)
    cd twoj-projekt
    ```
 2. Zainstaluj wymagane biblioteki:
