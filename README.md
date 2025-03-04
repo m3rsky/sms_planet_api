@@ -15,6 +15,7 @@ pip install requests
 ```
 
 Dodatkowo, należy utworzyć plik `definition.py` i dodać do niego dane logowania do API:
+DokumentACJA api smsplanet https://smsplanet.pl/integracja.html#dokumentacjaAPI
 ```python
 api_key = "TWÓJ_KLUCZ_API"
 password = "TWOJE_HASŁO"
